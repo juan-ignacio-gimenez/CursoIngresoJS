@@ -4,6 +4,19 @@
 */
 function mostrar()
 {
+var NumeroUno;
 
+var NumeroDos;
+
+NumeroUno=666;
+
+NumeroDos=NumeroUno;
+
+NumeroDos=NumeroUno;
+
+
+alert(NumeroUno);
+
+alert(NumeroDos);
 }
 
